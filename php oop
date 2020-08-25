@@ -1,0 +1,15 @@
+<?php
+class Motor{
+ public $merk,
+        $warna;
+}
+
+$motor1 = new Motor();
+$motor1->merk = "Yamaha";
+$motor1=>warna = "Hitam";
+
+$motor2 = new Motor();
+$motor2->merk = "Honda";
+$motor2->warna = "Biru";
+
+?>
